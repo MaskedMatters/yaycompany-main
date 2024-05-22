@@ -1,10 +1,3 @@
----
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
----
-
-
 # Matthew West (CEO of Yay Company)
 
 Hello, this is Matthew West! I am the CEO and owner of The Yay Company. The Yay Company aims itself to be a wide variety of docs and tools that I make along the way. I also use <https://yaycompany.com> as a home lab domain to test cool stuff like my NAS and servers.
@@ -42,8 +35,6 @@ The examples I just did were **DEFINITELY NOT** excuses to do them.
 The *excuse disclaimer* above was not an excuse to bolden something.
 
 The 3rd disclaimer was not an excuse to italicized something.
-
--
 
 Anyways, that's me! I am 12, I like to code, this website shares stuff about me, I have friends and we run this thing called PQAR (learn more at <https://pqar.net>), and this website looks really cool!
 
