@@ -1,61 +1,50 @@
-# Chirpy Starter
+---
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 4
+---
 
-[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
-[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
-`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
-from the theme's gem. If you have ever installed this theme gem, you can use the command
-`bundle info --path jekyll-theme-chirpy` to locate these files.
+# Matthew West (CEO of Yay Company)
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
-able to enjoy the out-of-the-box experience when using feature-rich themes.
+Hello, this is Matthew West! I am the CEO and owner of The Yay Company. The Yay Company aims itself to be a wide variety of docs and tools that I make along the way. I also use <https://yaycompany.com> as a home lab domain to test cool stuff like my NAS and servers.
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
-Jekyll site. The following is a list of targets:
+I just recently started learning Jekyll to make this website and it's pretty cool. My favorite things are probably the prompts, code blocks, and block quotes!
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
+##### Block Quote
+
+> "To be, or not to be... that is the question" - I don't know where I got that from
+
+##### Code Block
+
+```markdown
+##### Block Quote
+
+> "To be, or not to be... that is the question" - I don't know where I got that from
+
+##### Prompts
+
+> A `tip` prompt
+{: .prompt-tip}
+
+> An `info` prompt
+{: .prompt-info}
+
+> A `warning` prompt
+{: .prompt-warning}
+
+> A `danger` prompt
+{: .prompt-danger}
 ```
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
-latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+The examples I just did were **DEFINITELY NOT** excuses to do them.
 
-## Prerequisites
+The *excuse disclaimer* above was not an excuse to bolden something.
 
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of
-the basic environment. [Git](https://git-scm.com/) also needs to be installed.
+The 3rd disclaimer was not an excuse to italicized something.
 
-## Installation
+-
 
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it
-`USERNAME.github.io`, where `USERNAME` represents your GitHub username.
+Anyways, that's me! I am 12, I like to code, this website shares stuff about me, I have friends and we run this thing called PQAR (learn more at <https://pqar.net>), and this website looks really cool!
 
-Then clone it to your local machine and run:
-
-```console
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## Contributing
-
-The contents of this repository are automatically updated when new releases are made to the [main repository][chirpy].  
-If you have problems using it, or would like to participate in improving it, please go to the main repository for feedback!
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+*Byeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee!!*
