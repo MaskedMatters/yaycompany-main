@@ -1,6 +1,6 @@
 ---
 title: Misc. - Omega Wars Config
-date: 2023-11-17 05:10:00 -0500
+date: 2023-11-17 05:10:00 -0400
 categories: [Miscellaneous, Minecraft]
 tags: [minecraft, smp, server]
 ---

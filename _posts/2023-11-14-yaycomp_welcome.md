@@ -1,6 +1,6 @@
 ---
 title: The Yay Company - Welcome
-date: 2023-11-14 05:45:00 -0500
+date: 2023-11-14 05:45:00 -0400
 categories: [Getting Started,The Yay Company - Welcome]
 tags: [jekyll,githubpages,welcome]
 ---

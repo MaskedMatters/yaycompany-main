@@ -1,6 +1,6 @@
 ---
 title: Misc. - School Work List (TEST)
-date: 2023-11-15 11:17:00 -0500
+date: 2023-11-15 11:17:00 -0400
 categories: [Miscellaneous,Testing]
 tags: [testing,school,welcome]
 ---

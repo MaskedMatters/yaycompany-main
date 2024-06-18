@@ -1,6 +1,6 @@
 ---
 title: SUPER NEWS TODAY - iPhone RCS Messaging
-date: 2023-11-16 08:40:00 -0500
+date: 2023-11-16 08:40:00 -0400
 categories: [Technology, Smartphones]
 tags: [smartphones,rcs,getthemessage]
 ---
