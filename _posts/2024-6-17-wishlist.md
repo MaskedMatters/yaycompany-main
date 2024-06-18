@@ -51,3 +51,7 @@ You guys might be a little confused in what a tablet mouse is, but let me explai
 ## Mrwhosetheboss Everyday Carry
 
 ## My Personal Everyday Carry
+
+## Conclusion
+
+*Another easter egg, HTML-Proofer actually gave me an error because there was a markdown link, linking to this conclusion header without it existing... cool!*
