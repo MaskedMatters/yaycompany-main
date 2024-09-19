@@ -1,6 +1,6 @@
 ---
 title: The Yay Company - Goals and Projects
-date: YYYY-MM-DD HH:MM:SS -0400
+date: 2024-09-2024 09:32:00 -0400
 categories: [The Yay Company, Announcements]
 tags: [goals, dsn, subsidairies, projects]     # TAG names should always be lowercase
 ---
