@@ -1,7 +1,7 @@
 ---
 title: Blog - My First Shot at Astrophotography
-date: 2025-01-27 18:28:00 -0500
-categories: [Blog, Chess]
+date: 2025-08-07 00:00:00 -0500
+categories: [Blog, Astrophotography]
 tags: [photography, moon, astro, cool]     # TAG names should always be lowercase
 ---
 
